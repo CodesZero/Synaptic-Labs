@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <a href="https://github.com/onlineunknowns/ai-cognitive-brain">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=200&section=header&text=AI%20COGNITIVE%20BRAIN&fontSize=52&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Neural%20Intelligence%20Engine%20%7C%20Autonomous%20Decision%20Framework&descAlignY=58&descSize=18&descColor=a78bfa" alt="header"/>
   </a>
@@ -1058,7 +1058,7 @@ copies or substantial portions of the Software.
     <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-Support_This_Project-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117" alt="Buy Me A Coffee"/>
   </a>
   &nbsp;
-  <a href="https://wa.me/201286669272">
+  <a href="https://wa.me/201200655872">
     <img src="https://img.shields.io/badge/💬_WhatsApp-Chat_With_Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/>
   </a>
   &nbsp;
